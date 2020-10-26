@@ -38,7 +38,7 @@ section {
 	overflow: auto;
 }
 
-#hilsha {
+#chicken {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -53,7 +53,7 @@ section {
 	color: #FFFF00;
 }
 
-#biryani {
+#beef {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -68,7 +68,7 @@ section {
 	color: #FFFF00;
 }
 
-#chingri {
+#sushi {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -83,17 +83,17 @@ section {
 	padding: 5px;
 }
 
-#hilsha-div {
+#chciken-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
 
-#biryani-div {
+#beef-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
 
-#chingri-div {
+#sushi-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
